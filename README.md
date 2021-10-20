@@ -14,3 +14,15 @@ Instrucciones
 8. Descomprimir el zip 
 9. En el NetBeans botón derecho sobre la carpeta Libraries y agregar el JAR mysql-connector-java-XXXX.jar
 10. Run!
+
+
+
+Base de Datos
+--------------
+La aplicación se conecta a una base de datos MySql corriendo en el servicio gratuito https://remotemysql.com/
+
+Server: remotemysql.com
+Name: pWrkmqITf5
+Username: pWrkmqITf5
+Password: nixmRFZUxf
+Port number: 3306
