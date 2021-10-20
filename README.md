@@ -21,8 +21,8 @@ Base de Datos
 --------------
 La aplicación se conecta a una base de datos MySql corriendo en el servicio gratuito https://remotemysql.com/
 
-Server: remotemysql.com 
-Name: pWrkmqITf5 
-Username: pWrkmqITf5 
-Password: nixmRFZUxf 
-Port number: 3306
+1. Server: remotemysql.com 
+2. Name: pWrkmqITf5 
+3. Username: pWrkmqITf5 
+4. Password: nixmRFZUxf 
+5. Port number: 3306
